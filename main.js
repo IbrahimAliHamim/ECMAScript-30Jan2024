@@ -43,13 +43,31 @@ console.log(mySelf);*/
 
 // Object Destructuring(Property name have to be the variable name)
 
-const person = {
-  name:"Jhon",
-  age:23,
-  city:"Dhaka"
-}
-const {name, age, city}=person;
+// const person = {
+//   name:"Jhon",
+//   age:23,
+//   city:"Dhaka"
+// }
+// const {name, age, city}=person;
 
-console.log(city);
+// console.log(city);
 
 
+// ------------Nested Destructuring
+
+// const user={
+//   name:"Bob",
+//   age:30,
+//   parent:{
+//     father:"Jack",
+//     mother:"Rose",
+//   }
+// }
+
+//const {name, age, parent}=user;
+//console.log(parent['mother']); // ----Third party Object Fetching;
+//console.log(parent.mother); // ----Object Inside the Code;
+
+
+// const{name,age,parent:{father,mother}}=user;
+// console.log(mother);
