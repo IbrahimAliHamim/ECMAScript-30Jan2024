@@ -71,3 +71,15 @@ console.log(mySelf);*/
 
 // const{name,age,parent:{father,mother}}=user;
 // console.log(mother);
+
+
+
+// ------------Default, Optional Parameter
+
+// function addTwo(a, b=0){
+//   console.log(a+b);
+// }
+// addTwo(1)
+// addTwo(1,4);
+
+
