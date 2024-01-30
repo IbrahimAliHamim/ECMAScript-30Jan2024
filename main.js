@@ -41,3 +41,15 @@ console.log(mySelf);*/
 // console.log(a+b);
 
 
+// Object Destructuring(Property name have to be the variable name)
+
+const person = {
+  name:"Jhon",
+  age:23,
+  city:"Dhaka"
+}
+const {name, age, city}=person;
+
+console.log(city);
+
+
