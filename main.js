@@ -83,3 +83,10 @@ console.log(mySelf);*/
 // addTwo(1,4);
 
 
+// Rest Parameters
+
+// function sumAll(...numbers){
+//   console.log(numbers);
+//   console.log(numbers[0]+numbers[3]);
+// }
+// sumAll(1, 2, 3, 4)
