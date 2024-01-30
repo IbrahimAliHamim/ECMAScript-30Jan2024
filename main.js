@@ -34,3 +34,10 @@ let mySelf = `My age is ${myAge}`
 console.log(mySelf);*/
 
 
+// Array Destructuring
+
+// const arr=[1, 2, 3];
+// const [a, b, c]=arr;
+// console.log(a+b);
+
+
