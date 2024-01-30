@@ -15,3 +15,15 @@ a=20;
 console.log(a);*/
 
 
+// Arrow Functions
+
+/*function MyFun(a, b){
+  return a+b;
+}*/
+
+// const MyFunArrow = (a, b) => a+b;
+
+// console.log(MyFun(3,4));
+// console.log(MyFunArrow(3, 4));
+
+
